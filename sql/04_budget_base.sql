@@ -1,0 +1,10 @@
+-- A FactBudget fornecida usa Power Query (M), não uma consulta SQL.
+-- Fonte: budget/Receita_2013_Jan_Jun.xlsx, tabela estruturada Tabela1.
+-- A consulta apenas importa o Excel e define tipos; Budget14 já vem da fonte.
+-- O código M está documentado em documentation/insights.md.
+-- Premissas fornecidas: crescimento real de 5% e IPCA acumulado de 2013 de 5,91%.
+-- Regra numericamente compatível: (1 + 0.05) * (1 + 0.0591) - 1 = 0.112055.
+-- Budget14 compatível com Receita de cada mês de 2013 multiplicada por 1.112055.
+-- Base fornecida: janeiro a junho de 2013, projetados para os mesmos meses de 2014.
+-- Regra inferida dos valores e conferida; fórmulas das células ainda não inspecionadas.
+-- Se houver SQL original de preparação da base, registrá-lo aqui posteriormente.

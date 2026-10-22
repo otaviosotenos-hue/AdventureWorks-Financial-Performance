@@ -1,0 +1,2 @@
+-- Pendente: preencher com a consulta original de investigação da anomalia de junho de 2014.
+-- Nenhuma consulta correspondente foi encontrada na pasta durante a inspeção inicial.
