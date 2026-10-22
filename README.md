@@ -83,7 +83,7 @@ O custo usa `DimProduct[CustoPadrao]`, sem busca de custo histórico por data na
 
 ## Dashboard
 
-A imagem final será disponibilizada em `images/dashboard_final.png` quando o arquivo de origem estiver disponível.
+[Acessar dashboard interativo no Power BI] (https://app.powerbi.com/groups/me/reports/e83e6cd0-3a27-49fc-a29d-ac95a1acadd6?ctid=06973f68-bd6d-4da4-a19d-ad9118b7c409&pbi_source=linkShare)
 
 O arquivo Power BI está em `dashboard/AdventureWorks Financial Performance.pbix`.
 
