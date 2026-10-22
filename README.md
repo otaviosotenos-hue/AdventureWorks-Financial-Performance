@@ -83,9 +83,9 @@ O custo usa `DimProduct[CustoPadrao]`, sem busca de custo histórico por data na
 
 ## Dashboard
 
-[Acessar dashboard interativo no Power BI] (https://app.powerbi.com/groups/me/reports/e83e6cd0-3a27-49fc-a29d-ac95a1acadd6?ctid=06973f68-bd6d-4da4-a19d-ad9118b7c409&pbi_source=linkShare)
+![Dashboard AdventureWorks Financial Performance](images/dash_final.png)
 
-O arquivo Power BI está em `dashboard/AdventureWorks Financial Performance.pbix`.
+[Acessar dashboard interativo no Power BI]([https://app.powerbi.com/groups/me/reports/e83e6cd0-3a27-49fc-a29d-ac95a1acadd6?ctid=06973f68-bd6d-4da4-a19d-ad9118b7c409&pbi_source=linkShare])
 
 O dashboard apresenta comparação mensal de receita com Budget, distribuição da receita por país e dispersão de receita versus margem por produto. Na dispersão, o tamanho das bolhas representa lucro bruto e as linhas de referência indicam médias de receita e margem.
 
